@@ -122,11 +122,11 @@
 }
 
 .select-action__button-text-big {
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     font-family: "Euclid Circular B", Roboto, Helvetica, Arial, sans-serif;
     line-height: 140%;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     color: var(--color-text-default);
     text-align: center;
     height: 50px;
